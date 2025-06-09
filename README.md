@@ -26,3 +26,14 @@ This project proposes a **content- and defect-aware enhancement strategy**:
 - Uses the defect map to assign spatially varying weights, ensuring that severely degraded areas receive stronger correction while preserving good regions.
 
 ---
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Python 3.8+
+- OpenCV
+- NumPy
+- SciPy
+- scikit-image
+- matplotlib
