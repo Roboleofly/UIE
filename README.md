@@ -1,4 +1,6 @@
-# Underwater Image Enhancement: A Defect-Aware Multi-Scale Fusion Approach This repository implements an underwater image enhancement algorithm based on defect detection, designed to improve visual quality and preserve fine details in underwater scenes. The method targets common underwater degradations such as color distortion, low contrast, and blurriness, and enhances image regions adaptively by first detecting local defects and then guiding a multi-scale enhancement and fusion process.
+# Underwater Image Enhancement: A Defect-Aware Multi-Scale Fusion Approach 
+
+This repository implements an underwater image enhancement algorithm based on defect detection, designed to improve visual quality and preserve fine details in underwater scenes. The method targets common underwater degradations such as color distortion, low contrast, and blurriness, and enhances image regions adaptively by first detecting local defects and then guiding a multi-scale enhancement and fusion process.
 
 🧠 Algorithm Overview
 Underwater images often suffer from severe quality degradation due to light absorption and scattering, leading to poor visibility, color shift, and contrast loss. Traditional enhancement methods like Retinex, UDCP, and histogram-based corrections typically operate at the pixel level, without considering spatial or semantic defect variations across the image.
